@@ -1,0 +1,77 @@
+SK_ID_CURR - Идентификатор кредита в нашем образце
+
+TARGET - Целевая переменная (1 - клиент с трудностями оплаты: у него / нее была задержка платежа более чем на X дней ...
+
+NAME_CONTRACT_TYPE - Идентификация, если кредит наличными или возобновляемый
+
+CODE_GENDER - Пол клиента
+
+FLAG_OWN_CAR - Флаг, если клиент владеет автомобилем
+
+FLAG_OWN_REALTY - Флаг, если клиенту принадлежит дом или квартира
+
+CNT_CHILDREN - Количество детей у клиента
+
+AMT_INCOME_TOTAL - Доход клиента
+
+AMT_CREDIT - Сумма кредита по кредиту
+
+AMT_ANNUITY - Кредитный аннуитет
+
+AMT_GOODS_PRICE - Для потребительских кредитов это цена товаров, на которые предоставляется кредит.
+
+NAME_TYPE_SUITE - Кто сопровождал клиента, когда он подал заявку на кредит
+
+NAME_INCOME_TYPE - Тип дохода клиента (бизнесмен, работа, декретный отпуск)
+
+NAME_EDUCATION_TYPE - Уровень высшего образования, которого достиг клиент
+
+NAME_FAMILY_STATUS - Семейное положение клиента
+
+NAME_HOUSING_TYPE - Какова жилищная ситуация клиента (сдача в аренду, проживание с родителями, ...)
+
+REGION_POPULATION_RELATIVE - Нормализованное население региона, где живет клиент (большее число означает, что клиент живет в большем
+количестве ...
+
+DAYS_BIRTH - Возраст клиента в днях на момент подачи заявления
+
+DAYS_EMPLOYED - За сколько дней до подачи заявления человек приступил к текущей работе
+
+DAYS_REGISTRATION
+За сколько дней до подачи заявки клиент изменил свою регистрацию
+
+DAYS_ID_PUBLISH - За сколько дней до подачи заявления клиент изменил документ, удостоверяющий личность, с которым он ...
+
+OWN_CAR_AGE - Возраст автомобиля клиента
+
+FLAG_MOBIL - Предоставил ли клиент мобильный телефон (1 = ДА, 0 = НЕТ)
+
+FLAG_EMP_PHONE - Предоставил ли клиент рабочий телефон (1 = ДА, 0 = НЕТ)
+
+FLAG_WORK_PHONE - Предоставил ли клиент домашний телефон (1 = ДА, 0 = НЕТ)
+
+FLAG_CONT_MOBILE - Был ли мобильный телефон доступен (1 = ДА, 0 = НЕТ)
+
+FLAG_PHONE - Предоставил ли клиент домашний телефон (1 = ДА, 0 = НЕТ)
+
+FLAG_EMAIL - Предоставил ли клиент электронную почту (1 = ДА, 0 = НЕТ)
+
+OCCUPATION_TYPE - Какое занятие у клиента
+
+CNT_FAM_MEMBERS - Сколько членов семьи у клиента
+
+REGION_RATING_CLIENT - Наш рейтинг региона, где живет клиент (1,2,3)
+
+REGION_RATING_CLIENT_W_CITY - Наш рейтинг региона, где живет клиент с учетом города (1,2,3)
+
+ТИП ОРГАНИЗАЦИИ - Тип организации, в которой работает клиент
+
+EXT_SOURCE_i - Нормализованная оценка из внешнего источника данных
+
+YEARS_BUILD_AVG, COMMONAREA_AVG, ELEVATORS_AVG, ENTRANCES_AVG, FLOORSMAX_AVG, FLOORSMIN_AVG, LANDAREA_AVG, LIVINGAPARTMENTS_AVG,
+LIVINGAREA_AVG, NONLIVINGAPARTMENTS_AVG, NONLIVINGAREA_AVG, APARTMENTS_MODE, BASEMENTAREA_MODE, YEARS_BEGINEXPLUATATION_MODE
+YEARS_BUILD_MODE, COMMONAREA_MODE, ELEVATORS_MODE, ENTRANCES_MODE, FLOORSMAX_MODE, FLOORSMIN_MODE, LANDAREA_MODE, LIVINGAPARTMENTS_MODE
+LIVINGAREA_MODE, NONLIVINGAPARTMENTS_MODE, NONLIVINGAREA_MODE, APARTMENTS_MEDI, BASEMENTAREA_MEDI, YEARS_BEGINEXPLUATATION_MEDI
+YEARS_BUILD_MEDI, COMMONAREA_MEDI, ELEVATORS_MEDI, ENTRANCES_MEDI, FLOORSMAX_MEDI, FLOORSMIN_MEDI, LANDAREA_MEDI, LIVINGAPARTMENTS_MEDI
+LIVINGAREA_MEDI, NONLIVINGAPARTMENTS_MEDI, NONLIVINGAREA_MEDI, FONDKAPREMONT_MODE, HOUSETYPE_MODE, TOTALAREA_MODE, WALLSMATERIAL_MODE
+EMERGENCYSTATE_MODE - разные признаки, характеризующие здание, в котором проживает клиент(можно понять по названию)
